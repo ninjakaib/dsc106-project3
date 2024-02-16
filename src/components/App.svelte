@@ -1,5 +1,10 @@
+
+
+
+
 <script>
     export let name = "World";
+    import * as d3 from 'd3';
 </script>
 
 <main>
@@ -12,3 +17,4 @@
         text-align: center;
     }
 </style>
+
